@@ -1,0 +1,9 @@
+.trending-box {
+  height: 300px;
+  display: flex;
+  text-align: center;
+  width: 100%;
+  justify-content: center;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}

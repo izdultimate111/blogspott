@@ -1,0 +1,14 @@
+.parent {
+  display: grid;
+  grid-template-areas:
+    "hd hd hd hd hd hd "
+    "maintopLeft maintopLeft main main main main"
+    "mainLeft mainLeft mainLeft mainCenter mainRight mainRight "
+    "main3 main3 main3 main3 main3 main3"
+    "main4 main4 main4 main4 main4 main4"
+    "main5 main5 main5 main5 main5 main5"
+    "main6 main6 main6 main6 main6 main6"
+    "ft ft ft ft ft ft ";
+  grid-template-columns: 16.6% 16.6% 16.6% 16.6% 16.6% 16.6%;
+  grid-template-rows: 80px 500px 600px 655px 420px 550px 800px;
+}
