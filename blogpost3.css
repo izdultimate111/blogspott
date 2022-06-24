@@ -175,6 +175,9 @@ h4 {
   text-align: left;
   line-height: 32px;
 }
+blockquote {
+  margin: 0;
+}
 
 h2 {
   font-size: 2.2em;

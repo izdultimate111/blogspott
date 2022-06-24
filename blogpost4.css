@@ -23,6 +23,9 @@
   position: relative;
   display: inline-block;
 }
+blockquote {
+  margin: 0;
+}
 
 .dropdown-content {
   display: none;
